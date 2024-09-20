@@ -1,0 +1,6 @@
+projectKey=order_billing_ws
+serverUrl=http://localhost:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://localhost:9000/dashboard?id=order_billing_ws
+ceTaskId=AZIO1vsDZ-OJkBcpk8w1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZIO1vsDZ-OJkBcpk8w1
